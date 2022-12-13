@@ -5,3 +5,8 @@ header{
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
+#main{
+    color: blue;
+    font-size: large;
+}
